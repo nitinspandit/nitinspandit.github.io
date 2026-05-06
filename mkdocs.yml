@@ -61,8 +61,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/nitinspandit
-#    - icon: fontawesome/brands/linkedin
-#     link: https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/nitin-pandit-3458413b/
     - icon: material/email
       link: mailto:nitinspandit@gmail.com
 
