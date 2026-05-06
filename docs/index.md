@@ -18,10 +18,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/NP pic4Git 300x300.png" alt="Nitin Pandit" class="profile-photo">
+  <h1>Nitin Pandit</h1>
+  <p><strong>Mentor</strong></p>
+  <p><em>Connecting dots...</em></p>
 </div>
 
 ---
@@ -39,12 +39,12 @@ I am a geospatial data scientist with a background in remote sensing and machine
 I work on extracting actionable insights from satellite imagery and large spatial datasets
 using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
 GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+planning. I am currently seeking opportunities in to engage youth in the Shastri River Basin, Ratnagiri, India.
 
 </div>
 
 <div class="about-image">
-  <img src="assets/images/about.png" alt="About">
+  <img src="assets/images/Nitin Pandit 543x500 png.png" alt="About">
 </div>
 
 </div>
@@ -52,7 +52,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Pandit-CV.pdf){ .md-button }
 
 
 ---
