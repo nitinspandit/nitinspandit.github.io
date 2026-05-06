@@ -31,15 +31,11 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in to engage youth in the Shastri River Basin, Ratnagiri, India.
+Experienced Mentor with a demonstrated history in applied research in not-for-profits and private sector consulting, 
+with a track record of strategic development of new initiatives leading to impact. Knowledgeable in Policy Design, 
+Simulation Modeling and AI, Biodiversity and Climate Change, Civil and Water Resource Engineering, Energy Efficiency 
+and Renewable Energy. Strong professional with a PhD. in Public Policy from George Mason University.I am currently 
+working to engage youth in the Shastri River Basin, Ratnagiri district, India.
 
 </div>
 
@@ -117,5 +113,5 @@ planning. I am currently seeking opportunities in to engage youth in the Shastri
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/nitinspandit){ .md-button }
+[LinkedIn](https://linkedin.com/in/nitin-pandit-3458413b){ .md-button }
