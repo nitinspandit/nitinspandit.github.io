@@ -22,12 +22,12 @@ theme:
     # Available colors: red, pink, purple, deep purple, indigo, blue, light blue,
     # cyan, teal, green, light green, lime, yellow, amber, orange, deep orange
     - scheme: default            # Light mode
-      primary: indigo
-      accent: blue
+      primary: deep purple
+      accent: light blue
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    - scheme: slate              # Dark mode
+    - scheme: default              # light mode
       primary: indigo
       accent: blue
       toggle:
