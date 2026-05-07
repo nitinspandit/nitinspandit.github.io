@@ -24,7 +24,7 @@ Feel free to reach out through any of the channels below.
 | :material-email: **Email** | [nitinspandit@gmail.com](mailto:nitinspandit@gmail.com) |
 | :fontawesome-brands-github: **GitHub** | [github.com/nitinspandit](https://github.com/nitinspandit) |
 | :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/nitinspandit](https://linkedin.com/in/nitin-pandit-3458413b) |
-# | :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+<!-- | :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) | -->
 
 ---
 
