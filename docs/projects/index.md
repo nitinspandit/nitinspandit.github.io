@@ -20,14 +20,13 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/placeholder-project.png)
 
-**[Sample Project](sample-project.md)**
+**[Slug Test Interpretation](Slug_test.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+Pandit and Miner (1986) proposed a translation method for interpreting slug test data to reduce inconsistencies in estimating initial excess head, as commonly found in the Black (1978) method. This approach addresses subjectivity in matching field data to type curves, advocating for numerical methods for more consistent hydraulic conductivity (\(K\)) estimation.
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`HP 9845B running Basic` `Submersible Pressure Transducers`
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](Slug_test.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
